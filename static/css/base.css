@@ -39,6 +39,12 @@ body {
     color: white;
 }
 
+.btn-outline-black {
+    background: white;
+    color: black !important;
+    border: solid 1px black !important;
+}
+
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
