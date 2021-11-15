@@ -94,7 +94,9 @@ body > header > div:nth-child(2) > nav > ul {
     right: 10px;
 }
 
-.btt-link {
+.btt-link,
+.update-link,
+.remove-item {
     cursor: pointer;
 }
 
